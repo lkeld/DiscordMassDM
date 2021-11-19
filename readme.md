@@ -28,19 +28,23 @@ A Simple Mass DM Bot For Discord.
 
 To Get the Self Botter Running on your computer, follow the steps below: 
 
+<p align="center">
 <h3> Prerequisites </h3> 
+</p>
 - You Need To Install Python, Download Python <a href="https://www.python.org/downloads/"> Here</a> .
 
+<p align="center">
 <h3> Installation Process </h3> 
-1. Download Repo as Zip or Clone The Repo 
+</p>
+ 1. Download Repo as Zip or Clone The Repo 
 
 ```git clone https://github.com/MasterPanda61/DiscordMassDM```
 
-2. Install Requirements
+ 2. Install Requirements
 
 ```pip install -r requirements.txt```
 
-3. Change Settings in config.json 
+ 3. Change Settings in config.json 
 
 Put Your token in between the two parenthesis "token" (Replace Token With Your Discord Account Token)
 
@@ -48,10 +52,17 @@ Put Your token in between the two parenthesis "token" (Replace Token With Your D
 
 Put the message you want to send between the two Paranthesis "message" (Replace Message With Your Message)
 
+<p align="center">
+<h3> Usage </h3> 
+</p>
 
+In order to start the bot you will want to open a CMD tab and navigate to the same folder where the files for the bot is saved to. 
+To start the bot run the following code:
+```python bot.py```
 
-
-
+<p align="center">
+<h3> Contact </h3>
+</p>
 
 
 <p align="center">
