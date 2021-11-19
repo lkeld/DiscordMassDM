@@ -19,7 +19,7 @@
 <h3> About The Project </h3> 
 A Simple Mass DM Bot For Discord. 
 
-<a href="#Built-With</a> <h3> Built Using </h3>
+<h3> Built Using </h3>
 
 <a href="https://discordpy.readthedocs.io/en/stable/">Discord.py</a>
 
