@@ -1,45 +1,22 @@
 <h2> Mass DM Discord Self Bot </h2> 
 
 
-<p align="center">
-<a href="https://github.com/MasterPanda61/DiscordMassDM/issues> Report An Issue ·</a>
-
-<a href="https://github.com/MasterPanda61/DiscordMassDM/issues> Request A New Feature ·</a>
-
-<a href="https://discord.com"> Join Discord </a>
+  <p align="center">
+    A Discord Mass DM Self-Bot
+    <br />
+    <a href="https://github.com/MasterPanda61/DiscordMassDM"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/MasterPanda61/DiscordMassDM/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/MasterPanda61/DiscordMassDM/issues">Request Feature</a>
+      ·
+    <a href="https://discord.com">Join the discord</a>
+  </p>
 </p>
   
 
-<h3> Table Of Contents </h3>
-
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#copyright">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
-
-<a href="#about-the-project"</a> <h3> About The Project </h3> 
+<h3> About The Project </h3> 
 A Simple Mass DM Bot For Discord. 
 
 <a href="#Built-With</a> <h3> Built Using </h3>
