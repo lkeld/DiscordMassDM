@@ -1,3 +1,6 @@
+<h1> THIS BOT WAS NOT CREATED WITH MALICIOUS INTENT, THIS CODE IS PURELY FOR EDUCATIONAL PURPOSES AND PROOF OF CONCEPT. I CAN'T BE HELD LIABLE IN THE CASE THAT A USER HAS USED THIS CODE MALICIOUSLY.  BY RUNNING THIS CODE YOU ARE AGREEING THAT ALL CONSEQUENCES ARE OF YOUR OWN LIABILITY. \</h1>
+
+
 <h2> Mass DM Discord Self Bot </h2> 
 
 
@@ -63,7 +66,10 @@ To start the bot run the following code:
 <p align="center">
 <h3> Contact </h3>
 </p>
-
+- Discord: luke.#9999
+- Email: 
+- Instagram: lk.eld
+- Snapchat: lke.ld
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=MasterPanda61&repo=DiscordMassDM" />
