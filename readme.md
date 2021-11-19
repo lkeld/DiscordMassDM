@@ -21,7 +21,7 @@ A Simple Mass DM Bot For Discord.
 
 <h3> Built Using </h3>
 
-<a href="https://discordpy.readthedocs.io/en/stable/">Discord.py</a>
+- <a href="https://discordpy.readthedocs.io/en/stable/">Discord.py</a>
 
 
 <h3> Getting Started </h3> 
