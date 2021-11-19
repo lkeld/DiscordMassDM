@@ -1,12 +1,14 @@
 <h2> Mass DM Discord Self Bot </h2> 
 
 
-
+<p align="center">
 <a href="https://github.com/MasterPanda61/DiscordMassDM/issues> Report An Issue ·</a>
 
 <a href="https://github.com/MasterPanda61/DiscordMassDM/issues> Request A New Feature ·</a>
 
 <a href="https://discord.com"> Join Discord </a>
+</p>
+  
 
 <h3> Table Of Contents </h3>
 
